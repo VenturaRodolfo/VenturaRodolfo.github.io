@@ -1,0 +1,126 @@
+
+.img-circle {
+    border: 3px solid rgb(2, 2, 82);
+    border-radius: 40%;
+}
+p {
+    font: oblique bold 120% cursive;
+    color: #000000;
+}
+.boton {
+    background-color: rgb(132, 224, 236);
+    transition: background-color .5s;
+} 
+  
+  .boton:hover {
+    background-color: gold;
+  }
+  .select {
+    background-color: white;
+    transition: background-color .5s;
+} 
+  
+  .select:hover {
+    background-color: gold;
+  }
+  li{
+    font: oblique bold 120% cursive;
+}
+h2 {
+    font: oblique bold 120% cursive;
+}
+ol {
+    font: oblique bold 120% cursive;
+}
+h1 {
+    font: oblique bold 120% cursive;
+    color: #000000;
+}
+h3 {
+    font: oblique bold 120% cursive;
+    color: #000000; 
+}
+.ejemplo{
+  border-color: #000000;
+  border-width: 1px;
+  padding: 25px;
+  margin: 30px;
+  background-color:aqua;
+}
+
+.table {     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 12px;    margin: 45px;     width: 480px; text-align: left;    border-collapse: collapse; }
+
+.th {     font-size: 13px;     font-weight: normal;     padding: 8px;     background: #b9c9fe;
+  border-top: 4px solid #aabcfe;    border-bottom: 1px solid #fff; color: #039; }
+
+td {    padding: 8px;     background: #e8edff;     border-bottom: 1px solid #fff;
+  color: #669;    border-top: 1px solid transparent; }
+  tr:hover td { background: #d0dafd; color: #339; }
+  a:active {
+    position: relative;
+    top: 5px;
+  }
+.content-box-blue,
+.content-box-gray,
+.content-box-green,
+.content-box-purple,
+.content-box-red,
+.content-box-yellow,
+.content-light-blue {
+margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+}
+
+.content-box-blue {
+background-color: #d8ecf7;
+border: 5px solid black
+}
+
+.content-box-gray {
+background-color: #e2e2e2;
+border: 5px solid black
+}
+
+.content-box-green {
+background-color: #d9edc2;
+border: 5px solid black;
+}
+
+.content-box-purple {
+background-color: #e2e2f9;
+border: 5px solid black;
+}
+
+.content-box-red {
+background-color: #f9dbdb;
+border: 5px solid black;
+}
+
+.content-box-yellow {
+background-color: #fef5c4;
+border: 5px solid black;
+}
+
+.content-box-yellowfuerte {
+  background-color: #eecd14;
+  border: 5px solid black;
+  }
+
+.content-light-blue {
+background-color: #B2FBFC;
+border: 5px solid black;
+}
+.menu{
+  color: white;
+}
+.textopequeño{
+  font-family: Arial;
+  color: #000000;
+}
+.allison
+{
+  font-family: sans-serif;
+  color: white;
+}
