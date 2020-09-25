@@ -44,6 +44,11 @@
     font: oblique bold 120% cursive;
     color: #000000; 
   }
+  li {
+    font: oblique bold 120% cursive;
+    color: #000000; 
+  }
+  
 }
 .ejemplo{
   border-color: #000000;
