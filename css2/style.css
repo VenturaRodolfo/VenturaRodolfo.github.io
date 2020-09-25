@@ -3,10 +3,7 @@
     border: 3px solid rgb(2, 2, 82);
     border-radius: 40%;
 }
-p {
-    font: oblique bold 120% cursive;
-    color: #000000;
-}
+
 .boton {
     background-color: rgb(132, 224, 236);
     transition: background-color .5s;
@@ -26,19 +23,27 @@ p {
   li{
     font: oblique bold 120% cursive;
 }
-h2 {
-    font: oblique bold 120% cursive;
-}
-ol {
-    font: oblique bold 120% cursive;
-}
-h1 {
+@media screen and (min-width: 992px)
+{
+
+  p {
     font: oblique bold 120% cursive;
     color: #000000;
 }
-h3 {
+    h2 {
+    font: oblique bold 120% cursive;
+  }
+  ol {
+    font: oblique bold 120% cursive;
+  }
+  h1 {
+    font: oblique bold 120% cursive;
+    color: #000000;
+  }
+  h3 {
     font: oblique bold 120% cursive;
     color: #000000; 
+  }
 }
 .ejemplo{
   border-color: #000000;
